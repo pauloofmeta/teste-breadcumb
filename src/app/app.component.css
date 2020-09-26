@@ -1,0 +1,33 @@
+p {
+  font-family: Lato;
+}
+
+.menu {
+  margin-top: -15px;
+}
+
+.menu ul {
+  list-style: none;
+  list-style-type: none;
+  background-color: #0275d8;
+  width: 100%;
+  padding: 10px;
+  height: 20px;
+}
+
+.menu ul li {
+  display: block;
+  float: left;
+  padding: 10px;
+  margin-top: -9px;
+}
+
+.menu li a {
+    color: #eee;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.menu li:hover {
+  background-color: #01447e;
+}
